@@ -1,0 +1,6 @@
+#配置了一下有关数据库的东西。这里是要配置springboot定时任务吗
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/socks?useSSL=false
+    username: root
+    password: root
